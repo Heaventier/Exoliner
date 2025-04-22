@@ -38,7 +38,7 @@ Logo.Parent = UI
 Logo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Logo.BackgroundTransparency = 1.000
 Logo.BorderColor3 = Color3.new(1, 1, 1)
-Logo.Position = UDim2.new(0, 10, 0, 35)
+Logo.Position = UDim2.new(0, 14, 0, 35)
 Logo.Size = UDim2.new(0, 125, 0, 20)
 Logo.Font = Enum.Font.GothamBlack
 Logo.BorderSizePixel = 5
@@ -50,7 +50,7 @@ Section.Parent = UI
 Section.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Section.BackgroundTransparency = 1.000
 Section.BorderColor3 = Color3.new(1, 1, 1)
-Section.Position = UDim2.new(0, 179, 0, 35)
+Section.Position = UDim2.new(0, 183, 0, 35)
 Section.Size = UDim2.new(0, 125, 0, 20)
 Section.Font = Enum.Font.SourceSansSemibold
 Section.BorderSizePixel = 2
@@ -171,5 +171,3 @@ Executor.Text = ""
 end)
 
 -- Exoliner Script Execution Module
-
--- Remade by Heaventier on GitHub!
